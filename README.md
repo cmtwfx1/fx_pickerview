@@ -3,7 +3,7 @@
 A new Flutter package project.
 
 效果：
-![](https://worldruning.com/post-images/1605152779281.png)
+![image](https://worldruning.com/post-images/1605152779281.png)
 
 ## 1：布局说明
 #### 1.1：FxPickerView 多级联动的PickerView
